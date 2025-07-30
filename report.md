@@ -14,8 +14,7 @@ ERD vs flat file
 <img width="607" height="505" alt="image" src="https://github.com/user-attachments/assets/9948c233-b94c-444b-963c-4c5b29f2555c" />
 
 ## 2.  DBMS Advantages – Mind Map
-
-
+<img width="1920" height="1080" alt="MIND MAP" src="https://github.com/user-attachments/assets/bc888bb8-241b-4d43-a51d-c98fbfa9d4d9" />
 
 
 ## 3.  Roles in a Database System
