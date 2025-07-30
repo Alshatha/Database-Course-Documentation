@@ -10,15 +10,15 @@
 | Example Usage   | Basic log files, spreadsheets            | Banking systems, HR systems                  |
 | Drawbacks       | Poor scalability, difficult querying     | Complex setup, requires DBMS software        |
 
-ERD vs flat file <img width="607" height="505" alt="image" src="https://github.com/user-attachments/assets/9948c233-b94c-444b-963c-4c5b29f2555c" />
+ERD vs flat file
+<img width="607" height="505" alt="image" src="https://github.com/user-attachments/assets/9948c233-b94c-444b-963c-4c5b29f2555c" />
 
 ## 2.  DBMS Advantages – Mind Map
 
 
 
----
 
-## 3. 👥 Roles in a Database System
+## 3.  Roles in a Database System
 
 ### • System Analyst
 Analyzes business needs and translates them into technical requirements. Acts as a bridge between business and technical teams.
@@ -38,7 +38,6 @@ Integrates the database with applications, writing code that fetches, updates, a
 ### • BI Developer
 Creates dashboards and reports by analyzing large volumes of data to help decision-makers.
 
----
 
 ## 4.  Types of Databases
 
@@ -64,7 +63,6 @@ Creates dashboards and reports by analyzing large volumes of data to help decisi
 - **Description:** Hosted on cloud platforms, managed by providers
 - **Use Case:** Modern web apps, SaaS platforms
 
----
 
 ## 5.  Cloud Storage & Databases
 
@@ -92,7 +90,6 @@ Cloud storage allows saving data on remote servers accessed via the internet. It
 - Vendor lock-in risks
 - Cost can grow with scale
 
----
 
 ##  Conclusion
 This report highlights core concepts in database systems including the transition from flat files to relational systems, roles involved, types of databases, and the evolution into cloud-hosted solutions.
